@@ -1,0 +1,1 @@
+This are my notes and implementations of the book fluent python, it is intended to sharpen my python programming skills to the core.
